@@ -1,0 +1,10 @@
+/*全局；设置容器外边框距为0*/
+*{margin:0;}
+/*设置面板*/
+ .map{margin:100px auto;
+  height:600px;
+  width:900px;
+  background:#00D0FF;
+  border:10px solid #AFAEB2;
+  border-radius:8px;
+ }
